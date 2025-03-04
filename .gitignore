@@ -1,3 +1,11 @@
+# OS/operating files that should be hidden
+.idea/
+.DS_store
+*local/
+*local.*
+data/
+config/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

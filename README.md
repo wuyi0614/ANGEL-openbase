@@ -4,6 +4,15 @@ The open knowledge base repository for ANGEL project at NTU. This repository man
 
 This `openbase` is primarily open for academic purpose and surely it is also established on a wide range of successful and unsuccessful explorations in building up the knowledge base for climate and sustainability science. We sincerely acknowledge the contribution and efforts committed by this work or any other work relevant. We also welcome any suggestions on the `openbase` and collaborations for extensive applications.  
 
+## Configuration
+
+Properly configure your `.env` file before testing the scripts:
+
+```bash
+# make sure the `.env` config file is create and the following env variables
+DASHSCOPE_API_KEY='sk-****'
+```
+
 ## TODO
 
 ### 1. Data streaming

@@ -8,11 +8,12 @@ name = "pip_conf_index_global"
 pandas = '*'
 openpyxl = '*'
 numpy = '*'
-
+# LLMs
+openai = '*'
 # utils
 tqdm = '*'
 bs4 = '*'
 lxml = '*'
-
+python-dotenv = '*'
 [requires]
 python_version = "3.12"
